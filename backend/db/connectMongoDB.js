@@ -9,5 +9,5 @@ const connectMongoDB = async () => {
 		process.exit(1);
 	}
 };
-
+//this is the connect
 export default connectMongoDB;
