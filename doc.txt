@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=MDZC8VDZnV8
+npm init -y (doesn't ask you lot of setting)
+*********MongoDb **************
+user name: thamansupa
+GgIOPSCm8biVidJJ
+npm create vite@latest
+this tutorial is good for connecting mongodb creating project first getting the connection string from new project and put the databasename and username as done in the env variable
+
+chakraui for creating  user interface
+!!!!!!make the change to dev script it is different in window
+
+rafc/rafce for shortcut to generate code for component
+install tailwind css by using following command 
+npm install -D tailwindcss/postcss
+npm init (something similar look at the web and do the configuration as following in index.css, tailwindconfig.js,etc sim way)
+
+render.com is the site for deployment
