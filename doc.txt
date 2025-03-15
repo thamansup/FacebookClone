@@ -15,3 +15,10 @@ npm install -D tailwindcss/postcss
 npm init (something similar look at the web and do the configuration as following in index.css, tailwindconfig.js,etc sim way)
 
 render.com is the site for deployment
+for refrence to put the code in GitHub https://www.youtube.com/watch?v=qMck70tLDuo 
+git init
+git add Readme.md
+git commit -m "first commit"
+git branch -M main
+git remote add origini http://github.com(repo)
+git push -u origin main
