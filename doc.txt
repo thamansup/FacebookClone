@@ -22,3 +22,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origini http://github.com(repo)
 git push -u origin main
+*********changes to commit ******
+git --add --all
+git commit  -m "name of commit"
+git push
+
